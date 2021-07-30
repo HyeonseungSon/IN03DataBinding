@@ -1,0 +1,2 @@
+rootProject.name = "IN03DataBinding"
+include ':app'
